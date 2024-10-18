@@ -1,0 +1,34 @@
+/* .calculator{
+  background-color: orange;
+  height: 400px;
+  width:600px;
+  
+}
+.buttons{
+  grid-template-columns: repeat(4,1fr);
+  display: grid;
+  gap: 1px;
+  width: 200px;
+  padding-top: 20px;
+}
+button{
+  background-color: #fff;
+  border: 1px solid;
+  
+  padding: 20px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  outline: none;
+  
+}
+.button2{
+  grid-template-columns: repeat(4,1fr);
+  display: grid;
+  gap: 1px;
+  width: 400px;
+  padding-top: 2px;
+  margin-left: 300px;
+}
+button:hover{
+  background-color: orange;
+} */
